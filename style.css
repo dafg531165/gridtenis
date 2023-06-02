@@ -1,0 +1,23 @@
+body{
+
+    background-color: rgb(155, 78, 5)
+    
+    }
+    header{
+    
+    background-color: white
+    
+    }
+    .tenis{
+    
+       display: grid;
+       grid-template-columns: 20% 20% 20% 20% 20%;
+    
+    
+    }
+    .imgtenis{
+    
+       width: 350px;
+       height: 310px;
+    }
+    
